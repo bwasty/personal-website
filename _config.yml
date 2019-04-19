@@ -21,12 +21,13 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 14
+  limit: 17
   exclude:
     forks: false
     projects:
-    - rust-wasm-webpack-template
+    # - rust-wasm-webpack-template
     - vulkano_guide
+    - vulkan-tutorial-hpp
 
 social_media:
   # behance: your_username
